@@ -1,0 +1,14 @@
+
+P	java:S125"<This block of commented-out lines of code should be removed.(ïšµ7
+D
+java:S1128".Remove this unused import 'org.bson.Document'.(ÙË®“
+V
+java:S1128"@Remove this unused import 'com.mongodb.client.model.Filters.eq'.(©§›
+Z
+java:S1128"?Remove this unused import 'com.mongodb.client.MongoCollection'.(Âéüûÿÿÿÿ
+X
+java:S1128	"=Remove this unused import 'com.mongodb.client.MongoDatabase'.(İµÔüùÿÿÿÿ
+B
+java:S1128"-Remove this unused import 'org.slf4j.Logger'.(íØ®6
+J
+java:S1128"4Remove this unused import 'org.slf4j.LoggerFactory'.(–ÿÚŞ
